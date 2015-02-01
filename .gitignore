@@ -1,4 +1,7 @@
-*/*bin/Debug/*
 */packages/
 *.suo
-*/*obj/Debug/*
+**/bin/Debug/**
+**/obj/Debug/**
+**/bin/Release/**
+**/obj/Release/**
+WebSample/bin/*
